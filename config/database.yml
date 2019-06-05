@@ -4,10 +4,10 @@
 
 production:
   adapter: mysql2
-  database: redmine
-  host: localhost
-  username: root
-  password: ""
+  database: b69xgrdiuxthqybqavfr
+  host: b69xgrdiuxthqybqavfr-mysql.services.clever-cloud.com
+  username: uiflp3hbk7h3f4tj
+  password: "w0N6fTNpAxKfeE1xa59E"
   encoding: utf8
 
 development:
